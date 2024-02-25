@@ -1,5 +1,5 @@
 # RPC stress testing :chart_with_upwards_trend:
-## Introduction
+
 This project will help you test your RPC by creating n users subscribed to receive the new blocks and then fetch each block with its transactions using [ethers](https://docs.ethers.io/v5/) library
 
 ```
